@@ -3,7 +3,8 @@
 
 
 Research prototype for affordable respiratory disease screening in low-resource settings.
-*Made ny Maimouna Tougoutcho Coulibaly, Malie
+
+*Made ny Maimouna Tougoutcho Coulibaly, Mali*
 
 
 
