@@ -40,6 +40,8 @@ ICBHI 2017 Respiratory Sound Database
 
 ```
 
+Download the pre-trained model from https://drive.google.com/drive/folders/1FGATU8k__iJ0j6kcLZGi2JN04eYcyMMb?usp=drive_link and place it in the root folder.
+
 ## Disclaimer
 
 For research purposes only. Not a certified medical device.
