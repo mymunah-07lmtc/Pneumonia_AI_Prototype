@@ -1,0 +1,28 @@
+# Model files (too large for GitHub)
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary audio
+temp_audio.wav
+*.png
+
+# Virtual environment
+venv/
+env/
+# Ignore datasets (too large for GitHub)
+data/
+*.zip
+*.7z
+
+# Ignore trained models (too large)
+*.pkl
+*.joblib
+
+# Ignore temporary files
+temp_audio.wav
+*.png
+logs.txt
+__pycache__/
