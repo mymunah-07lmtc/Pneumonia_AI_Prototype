@@ -26,3 +26,11 @@ temp_audio.wav
 *.png
 logs.txt
 __pycache__/
+
+file_list.txt
+icbhi_diagnosis.csv
+lung_sound_features.csv
+temp_audio.wav
+temp_upload.wav
+temp_recording.tmp
+*.png
