@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ```
 
 ### 4. Download the Pre-Trained Model Files
-The model files are too large for GitHub. **[Download them from Google Drive](https://drive.google.com/your-link-here)** and place all three files (`lung_model_best.pkl`, `scaler.pkl`, `label_map.pkl`) in the root folder of this project.
+The model files are too large for GitHub. **Download them from Google Drive (https://drive.google.com/drive/folders/1FGATU8k__iJ0j6kcLZGi2JN04eYcyMMb?usp=sharing)** and place all three files (`lung_model_best.pkl`, `scaler.pkl`, `label_map.pkl`) in the root folder of this project.
 
 ### 5. Run the App
 ```bash
