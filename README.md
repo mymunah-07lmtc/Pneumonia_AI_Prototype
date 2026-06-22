@@ -53,7 +53,7 @@ The model files are too large for GitHub. **Download them from Google Drive (htt
 
 ### 5. Run the App
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 Your browser will automatically open to `http://localhost:8501`.
 
