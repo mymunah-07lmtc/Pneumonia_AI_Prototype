@@ -4,6 +4,8 @@
 
 An end-to-end machine learning prototype for rapid triage of respiratory abnormalities (Pneumonia, COPD, URTI) in underserved clinical environments. 
 
+**Video demo of the Streamlit website:** https://github.com/user-attachments/assets/7987f9ed-a934-4b7b-a902-602c27b63676
+
 - **Engineered a 36-feature audio classification pipeline** (MFCCs, spectral centroid, zero-crossing rate, RMS) using Python, librosa, and scikit-learn.
 - **Achieved ~80% cross-validated accuracy** on the ICBHI 2017 Respiratory Sound Database (920 audio files) using SVM/XGBoost classifiers.
 - **Developed a fully functional Streamlit web application** featuring real-time patient intake, waveform visualization, and automated PDF clinical report generation.
